@@ -1,7 +1,7 @@
 using System;
 
 namespace SalesWebMvc.Models.ViewModels
-{/*teste*/
+
     public class ErrorViewModel
     {
         public string RequestId { get; set; }
